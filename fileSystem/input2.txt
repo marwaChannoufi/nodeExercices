@@ -1,0 +1,1 @@
+read with synchrounous fomr  from txt2
